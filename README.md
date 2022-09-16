@@ -44,6 +44,21 @@ It can help you as a web entrepreneur, web bloggers, to deploy a static website 
 
 7. Click on Properties > Static Website Properties > select "Use this bucket to host a website" > Index document: type index.html > Error document: type error404.html
 
+8. In permission , add this to your bucket policy. NOTE in resoucr add your resource AWS
+9. <code>
+  {
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Sid": "AllowPublicReadAccess",
+            "Effect": "Allow",
+            "Principal": "*",
+            "Action": "s3:GetObject",
+            "Resource": "arn:aws:s3:::akshay-staticwebsite/*"
+        }
+    ]
+}
+  </code>
 <details>
 <summary>🔵 See in AWS</summary>
 <p> 
