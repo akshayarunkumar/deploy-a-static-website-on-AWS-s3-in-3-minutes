@@ -57,7 +57,7 @@ It can help you as a web entrepreneur, web bloggers, to deploy a static website 
   
 There you go! Your website is online, you can visit it using the provided endpoint url.
   
-[![website.png]([https://i.postimg.cc/VkVtPhb5/website.png](https://raw.githubusercontent.com/akshayarunkumar/deploy-a-static-website-on-AWS-s3-in-3-minutes/main/s3.png))][(https://postimg.cc/21ny42Gf](https://raw.githubusercontent.com/akshayarunkumar/deploy-a-static-website-on-AWS-s3-in-3-minutes/main/s3.png))
+[![website.png]([[https://i.postimg.cc/VkVtPhb5/website.png](https://raw.githubusercontent.com/akshayarunkumar/deploy-a-static-website-on-AWS-s3-in-3-minutes/main/s3.png)](https://raw.githubusercontent.com/akshayarunkumar/deploy-a-static-website-on-AWS-s3-in-3-minutes/main/s3.png))][(https://raw.githubusercontent.com/akshayarunkumar/deploy-a-static-website-on-AWS-s3-in-3-minutes/main/s3.png))
 
 <hr>
  
@@ -65,4 +65,4 @@ There you go! Your website is online, you can visit it using the provided endpoi
 
 ## Author
 
-* **Isaac Arnault** - AWS Cloud series - Related tags: #S3 #Bucket #StaticWebsite
+* **Akshay H A** - AWS |Cloud Engineer | Developer - Related tags: #S3 #Bucket #StaticWebsite
